@@ -41,7 +41,7 @@ The app categorizes the BMI score and assigns a specific color to each category 
 2.  Enter your weight in the corresponding text field.
 3.  Select your preferred unit for height (m, cm, or ft/in).
 4.  Enter your height. If using ft/in, provide values for both feet and inches.
-5.  As you type, the app automatically calculates and displays your BMI score.
+5.  The app automatically calculates and displays your BMI score.
 6.  The result card at the bottom will update to show your final BMI, the corresponding health category (e.g., Normal, Overweight), and a color that visually represents that category.
 
 ## Screenshots
