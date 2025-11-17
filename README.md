@@ -46,5 +46,5 @@ The app categorizes the BMI score and assigns a specific color to each category 
 
 ## Screenshots
 
-*(Add your app screenshots here)*
-
+![First Screenshot](https://github.com/mahdi-chy/BMI-calculator/blob/main/Screenshot.png)
+![Second Screenshot](https://github.com/mahdi-chy/BMI-calculator/blob/main/Screenshot_2.png)
